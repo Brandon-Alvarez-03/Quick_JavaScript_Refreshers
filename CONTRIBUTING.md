@@ -6,6 +6,7 @@ We welcome contributions from the open-source community to help make this reposi
 
 Here are a few examples of the types of contributions we welcome:
 
+- your own JavaScript mini-projects with adequate commentary
 - Bug reports and fixes
 - Feature requests and implementation
 - Documentation improvements

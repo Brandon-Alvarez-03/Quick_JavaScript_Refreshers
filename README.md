@@ -25,7 +25,7 @@ Each project is designed to reinforce key concepts and provide hands-on experien
 
 ---
 
-If you would like to contribute to this repository, please feel free to submit a pull request with your proposed changes. All contributions are welcome and appreciated!
+This repository has a `CONTRIBUTING.md` file to guide you through the contribution process. Please read through it before making any contributions.
 
 ### Encouraged Code Comments
 
@@ -34,6 +34,18 @@ Adding comments to your code is a best practice that not only helps others under
 By adding concise and descriptive comments, you can explain what specific code blocks or portions of the code are doing, which can help you or others understand the logic behind the code. Additionally, this makes these simple programs serve as effective refreshers of basic concepts in computer science.
 
 So don't hesitate to add comments to your code as you work through these mini projects, and make this repository a valuable resource for others to learn and improve their JavaScript skills!
+
+## Code of Conduct
+
+---
+
+We have a `CODE_OF_CONDUCT.md` file in this repository to ensure a welcoming and inclusive environment for everyone. Please read through it and follow its guidelines.
+
+## License
+
+---
+
+This repository is licensed under the terms of the MIT License. You can find the license text in the `LICENSE` file.
 
 ## Conclusion
 

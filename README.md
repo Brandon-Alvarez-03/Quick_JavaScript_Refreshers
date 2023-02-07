@@ -6,6 +6,8 @@ Each project is designed to reinforce key concepts and provide hands-on experien
 
 ## Project Topics
 
+---
+
 - Topic 1: Variables and Data Types
 - Topic 2: Operators and Conditional Statements
 - Topic 3: Functions and Arrays
@@ -13,11 +15,15 @@ Each project is designed to reinforce key concepts and provide hands-on experien
 
 ## Getting Started
 
+---
+
 1. Clone or download the repository to your local machine.
 2. Open each project folder to see the project instructions and starting code.
 3. Code along with the instructions or use the starting code as a reference to create your own solution.
 
 ## Contributing
+
+---
 
 If you would like to contribute to this repository, please feel free to submit a pull request with your proposed changes. All contributions are welcome and appreciated!
 
@@ -30,5 +36,7 @@ By adding concise and descriptive comments, you can explain what specific code b
 So don't hesitate to add comments to your code as you work through these mini projects, and make this repository a valuable resource for others to learn and improve their JavaScript skills!
 
 ## Conclusion
+
+---
 
 With the help of this repository, you can improve your understanding of JavaScript fundamentals and become more confident in your coding abilities. So, get ready to dive in and refresh your skills today!

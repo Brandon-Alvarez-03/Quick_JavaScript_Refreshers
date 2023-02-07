@@ -21,6 +21,14 @@ Each project is designed to reinforce key concepts and provide hands-on experien
 
 If you would like to contribute to this repository, please feel free to submit a pull request with your proposed changes. All contributions are welcome and appreciated!
 
+### Encouraged Code Comments
+
+Adding comments to your code is a best practice that not only helps others understand your code, but also serves as a reminder for yourself in the future. In this repository, multiline comments are encouraged as they allow for a more thorough explanation of the code.
+
+By adding concise and descriptive comments, you can explain what specific code blocks or portions of the code are doing, which can help you or others understand the logic behind the code. Additionally, this makes these simple programs serve as effective refreshers of basic concepts in computer science.
+
+So don't hesitate to add comments to your code as you work through these mini projects, and make this repository a valuable resource for others to learn and improve their JavaScript skills!
+
 ## Conclusion
 
 With the help of this repository, you can improve your understanding of JavaScript fundamentals and become more confident in your coding abilities. So, get ready to dive in and refresh your skills today!

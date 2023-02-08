@@ -16,13 +16,13 @@ Here are a few examples of the types of contributions we welcome:
 
 Here are the steps to follow to make a contribution:
 
-1. Fork the repository.
-<!-- 2. Create a new branch with a descriptive name (e.g., `fix-typo-in-readme`). -->
-2. Make changes as you see fit.
-3. Run tests and make sure everything is working.
-4. Commit your changes with a descriptive message (More details are encouraged).
-5. Submit a pull request to the **submissions** repository.
-6. Keep an eye out for comments and feedback.
+1. If starting from sracth, Fork the repository.
+2. If you've forked already, sync your Fork with the submissions branch.
+3. Make changes as you see fit.
+4. Run tests and make sure everything is working.
+5. Commit your changes with a descriptive message (More details are encouraged).
+6. Submit a pull request to the **submissions** repository.
+7. Keep an eye out for comments and feedback.
 
 ***PLEASE SUBMIT ALL PULL REQUESTS TO THE "SUBMISSIONS BRANCH" ALL PULL REQUESTS TO MAIN WILL BE REJECTED***
 

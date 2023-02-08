@@ -1,3 +1,4 @@
+// npm install --save-dev jest
 //run npx jest to test
 
 const gradingStudents = require("../gradingStudents.js");

@@ -22,7 +22,8 @@ Here are the steps to follow to make a contribution:
 4. Run tests and make sure everything is working.
 5. Commit your changes with a descriptive message.
 6. Push your changes to your forked repository.
-7. Submit a pull request to the original repository.
+7. Submit a pull request to the **development** repository.
+8. Keep an eye out for comments and feedback
 
 ## Coding Style
 

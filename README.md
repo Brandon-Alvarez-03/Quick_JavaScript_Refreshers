@@ -25,9 +25,11 @@ Each project is designed to reinforce key concepts and provide hands-on experien
 
 ---
 
-This repository has a `CONTRIBUTING.md` file to guide you through the contribution process. Please read through it before making any contributions.
+This repository has a [`CONTRIBUTING.md`](CONTRIBUTING.md) file to guide you through the contribution process. Please read through it before making any contributions.
 
 The repository [Wiki](https://github.com/Brandon-Alvarez-03/Quick_JavaScript_Refreshers/wiki) is also a great quickstarting guide on contributing to this repository!
+
+[Opensource.guide](https://opensource.guide/how-to-contribute/)
 
 ### Encouraged Code Comments
 

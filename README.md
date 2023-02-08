@@ -27,7 +27,11 @@ Each project is designed to reinforce key concepts and provide hands-on experien
 
 This repository has a `CONTRIBUTING.md` file to guide you through the contribution process. Please read through it before making any contributions.
 
+The repository [Wiki](https://github.com/Brandon-Alvarez-03/Quick_JavaScript_Refreshers/wiki) is also a great quickstarting guide on contributing to this repository!
+
 ### Encouraged Code Comments
+
+---
 
 Adding comments to your code is a best practice that not only helps others understand your code, but also serves as a reminder for yourself in the future. In this repository, multiline comments are encouraged as they allow for a more thorough explanation of the code.
 
@@ -39,13 +43,13 @@ So don't hesitate to add comments to your code as you work through these mini pr
 
 ---
 
-We have a `CODE_OF_CONDUCT.md` file in this repository to ensure a welcoming and inclusive environment for everyone. Please read through it and follow its guidelines.
+We have a [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) file in this repository to ensure a welcoming and inclusive environment for everyone. Please read through it and follow its guidelines.
 
 ## License
 
 ---
 
-This repository is licensed under the terms of the MIT License. You can find the license text in the `LICENSE` file.
+This repository is licensed under the terms of the MIT License. You can find the license text in the [`LICENSE`](LICENSE) file.
 
 ## Conclusion
 

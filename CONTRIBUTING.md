@@ -28,6 +28,12 @@ Here are the steps to follow to make a contribution:
 
 Please follow the coding style used in the original repository.
 
+## NPM Packages
+
+- To avoid a bloated dependency list, please try install your dependencies in the appropriate subdirectory.
+- For example, if you need to `npm install mongoose` please cd into the mongoose directory to do so.
+- Pull requests with root directory npm installs will be rejected!
+
 ## License
 
 By contributing to this repository, you agree to release your contributions under the [MIT License](https://opensource.org/licenses/MIT).

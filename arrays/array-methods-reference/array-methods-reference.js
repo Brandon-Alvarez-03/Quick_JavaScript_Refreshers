@@ -105,4 +105,4 @@ const sumWithInitial = numsArray.reduce(
 );
 
 console.log(sumWithInitial);
-// Expected output: 10
+// Expected output: 6

@@ -1,3 +1,5 @@
+// This is a recursion algorithm that will log all subsets of a given array of numbers
+
 set = [1,2]
 
 function all_subsets (arr){

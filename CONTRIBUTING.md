@@ -30,9 +30,9 @@ Please follow the coding style used in the original repository.
 
 ## NPM Packages
 
-- To avoided a bloated dependency list, please try install your dependencies in the appropriate subdirectory.
+- To avoid a bloated dependency list, please try install your dependencies in the appropriate subdirectory.
 - For example, if you need to `npm install mongoose` please cd into the mongoose directory to do so.
-- Pull requests with root directory npm install will be rejected!
+- Pull requests with root directory npm installs will be rejected!
 
 ## License
 

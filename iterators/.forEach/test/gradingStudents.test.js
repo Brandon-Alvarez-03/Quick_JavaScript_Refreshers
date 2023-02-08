@@ -1,4 +1,6 @@
-const gradingStudents = require("../iterators/gradingStudents.js");
+//run npx jest to test
+
+const gradingStudents = require("../gradingStudents.js");
 
 describe("gradingStudents", () => {
   it("should round grades correctly according to the grading policy", () => {

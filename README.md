@@ -1,6 +1,6 @@
 # JavaScript Fundamentals Refresher
 
-Welcome to the JavaScript Fundamentals Refresher repository! This repository contains a collection of quick mini projects that serve as a refresher for JavaScript fundamentals.
+Welcome to the Open Source JavaScript Fundamentals Refresher repository! This repository contains a collection of quick mini projects that serve as a refresher for JavaScript fundamentals.
 
 Each project is designed to reinforce key concepts and provide hands-on experience with the language. Whether you are a beginner looking to improve your JavaScript skills or an experienced developer looking to keep your knowledge fresh, this repository has something for you.
 
